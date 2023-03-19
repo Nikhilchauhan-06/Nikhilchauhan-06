@@ -1,4 +1,4 @@
-![logo](https://github.com/Nikhilchauhan-06/Nikhil/blob/main/wallpaperflare.com_wallpaper.jpg)
+![logo](https://github.com/Nikhilchauhan-06/Nikhilchauhan-06/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Chauhan</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
